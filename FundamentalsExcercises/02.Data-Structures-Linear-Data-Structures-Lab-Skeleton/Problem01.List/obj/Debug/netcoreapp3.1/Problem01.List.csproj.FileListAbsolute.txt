@@ -1,0 +1,29 @@
+C:\Users\alter\repos\DataStructures\Excercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csproj.AssemblyReference.cache
+C:\Users\alter\repos\DataStructures\Excercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfoInputs.cache
+C:\Users\alter\repos\DataStructures\Excercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfo.cs
+C:\Users\alter\repos\DataStructures\Excercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csproj.CoreCompileInputs.cache
+c:\Users\alter\repos\DataStructures\Excercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.deps.json
+c:\Users\alter\repos\DataStructures\Excercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.dll
+c:\Users\alter\repos\DataStructures\Excercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.pdb
+c:\Users\alter\repos\DataStructures\Excercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.dll
+c:\Users\alter\repos\DataStructures\Excercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.pdb
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.deps.json
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.dll
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.pdb
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csproj.AssemblyReference.cache
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfoInputs.cache
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfo.cs
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csproj.CoreCompileInputs.cache
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.dll
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.pdb
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02.Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.deps.json
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02.Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.dll
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02.Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.pdb
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02.Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csproj.AssemblyReference.cache
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02.Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02.Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfoInputs.cache
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02.Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfo.cs
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02.Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csproj.CoreCompileInputs.cache
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02.Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.dll
+C:\Users\alter\repos\DataStructures\DataStructuresSoftUni\FundamentalsExcercises\02.Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.pdb
