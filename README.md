@@ -4,7 +4,7 @@ Data Structures Fundamentals (with C#) - юни 2021
 and
 Data Structures Advanced (with C#) - август 2021
 
-##Structure
+## Structure
 
 - FundamentalsExcercises
 - FundamentalsExams
