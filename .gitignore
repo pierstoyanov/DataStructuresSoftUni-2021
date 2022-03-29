@@ -2,9 +2,11 @@
 vscode
 .vs
 
-/bin
-/obj
+bin/
+obj/
+
 
 
 .zip
 .docx
+*.zip
