@@ -8,7 +8,15 @@
     {
         public HtmlElement(ElementType type, params IHtmlElement[] children)
         {
-            throw new NotImplementedException();
+            Type = type;
+            Children = new List<IHtmlElement>();
+            Attributes = new Dictionary<string, string>();
+
+            foreach (var child in children)
+            {
+                child.Parent = this;
+                Children.Add(child);
+            }
         }
 
         public ElementType Type { get; set; }

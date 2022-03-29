@@ -16,7 +16,7 @@ Data Structures Advanced (with C#) - август 2021
   - Prep 1 & 2
 2. FundamentalsExams //TODO
   - 03.10.2020 335/400
-  - 01.08.2021 203/400
+  - 01.08.2021 232/400
   - 08.08.2021 82/400
   - 26.03.2022 392/400
 3. AdvancedExcercises
