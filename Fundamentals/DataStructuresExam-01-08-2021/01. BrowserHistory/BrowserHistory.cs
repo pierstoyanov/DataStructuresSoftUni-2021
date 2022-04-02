@@ -120,7 +120,7 @@
             foreach (var link in history.Reverse())
             {
                 result.Append(link.ToString());
-                result.AppendLine();
+                result.Append(Environment.NewLine);
             }
             return result.ToString();
         }
