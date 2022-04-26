@@ -23,8 +23,8 @@ public class Olympics : IOlympics
 
     public void Compete(int competitorId, int competitionId)
     {
-        CheckNotExistsInCollection(competitorId, competitors);
-        CheckNotExistsInCollection(competitionId, games);
+        CheckExistsInCollection(competitorId, competitors);
+        CheckExistsInCollection(competitionId, games);
 
         games[competitionId].Competitors.Add(competitors[competitorId]);
         //games[competitionId].Score += competitors[competitorId].TotalScore;
@@ -52,8 +52,8 @@ public class Olympics : IOlympics
 
     public void Disqualify(int competitionId, int competitorId)
     {
-        CheckNotExistsInCollection(competitorId, competitors);
-        CheckNotExistsInCollection(competitionId, games);
+        CheckExistsInCollection(competitorId, competitors);
+        CheckExistsInCollection(competitionId, games);
 
         games[competitionId].Competitors.Remove(competitors[competitorId]);
         competitors[competitorId].TotalScore -= games[competitionId].Score;
@@ -71,12 +71,7 @@ public class Olympics : IOlympics
 
     public Competition GetCompetition(int id)
     {
-        if (!games.ContainsKey(id))
-        {
-            throw new ArgumentException();
-        }
-        return games[id];
-
+        throw new NotImplementedException();
     }
 
     public IEnumerable<Competitor> SearchWithNameLength(int min, int max)
@@ -86,29 +81,13 @@ public class Olympics : IOlympics
 
     private void CheckExistsInCollection(int key, IDictionary<int, Competitor> collection)
     {
-        if (collection.ContainsKey(key))
-        {
-            throw new ArgumentException();
-        }
-    }
-
-    private void CheckExistsInCollection(int key, IDictionary<int, Competition> collection)
-    {
-        if (collection.ContainsKey(key))
-        {
-            throw new ArgumentException();
-        }
-    }
-
-    private void CheckNotExistsInCollection(int key, IDictionary<int, Competitor> collection)
-    {
         if (!collection.ContainsKey(key))
         {
             throw new ArgumentException();
         }
     }
 
-    private void CheckNotExistsInCollection(int key, IDictionary<int, Competition> collection)
+    private void CheckExistsInCollection(int key, IDictionary<int, Competition> collection)
     {
         if (!collection.ContainsKey(key))
         {

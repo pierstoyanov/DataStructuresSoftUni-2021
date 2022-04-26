@@ -23,4 +23,3 @@ public interface IOlympics
 
     Competition GetCompetition(int id);
 }
-
